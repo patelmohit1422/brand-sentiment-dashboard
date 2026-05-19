@@ -1,0 +1,52 @@
+{
+  "summary": "Negative sentiment is the largest segment at 33.9%.",
+  "distribution": {
+    "Negative": 508,
+    "Positive": 499,
+    "Neutral": 493
+  },
+  "model_quality": {
+    "accuracy": 0.9433,
+    "precision_weighted": 0.9437,
+    "recall_weighted": 0.9433,
+    "f1_weighted": 0.9433
+  },
+  "top_positive_terms": [
+    "use",
+    "comes",
+    "experience felt",
+    "felt worth",
+    "worth"
+  ],
+  "top_negative_terms": [
+    "slowed",
+    "not recommend",
+    "recommend",
+    "twice",
+    "repeat"
+  ],
+  "suggestion": "The product is drawing more complaints than praise, so the next move should be to fix friction points before pushing new features.",
+  "key_observations": [
+    "Negative sentiment is the largest segment at 33.9%.",
+    "Positive comments often mention words like use, comes, experience felt.",
+    "Negative comments keep circling back to support.",
+    "Neutral comments are still a big chunk, which usually means users are observing more than reacting."
+  ],
+  "complaint_themes": {
+    "pricing": 88,
+    "delays": 62,
+    "support": 213,
+    "bugs": 22
+  },
+  "praise_themes": {
+    "speed": 13,
+    "ease": 22,
+    "helpfulness": 70
+  },
+  "personal_insight": "I noticed that a lot of the negative feedback is tied to pricing and value perception, which tells me people are not just reacting to the product, they are judging whether it feels worth the money.",
+  "sample_counts": {
+    "positive": 499,
+    "negative": 508,
+    "neutral": 493
+  }
+}

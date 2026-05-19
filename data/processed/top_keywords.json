@@ -1,0 +1,500 @@
+{
+  "Negative": {
+    "top_positive_terms": [
+      {
+        "term": "slowed",
+        "weight": 2.2413
+      },
+      {
+        "term": "not recommend",
+        "weight": 1.747
+      },
+      {
+        "term": "recommend",
+        "weight": 1.747
+      },
+      {
+        "term": "twice",
+        "weight": 1.5213
+      },
+      {
+        "term": "repeat",
+        "weight": 1.5213
+      },
+      {
+        "term": "repeat twice",
+        "weight": 1.5213
+      },
+      {
+        "term": "clunky",
+        "weight": 1.2421
+      },
+      {
+        "term": "felt annoying",
+        "weight": 1.1198
+      },
+      {
+        "term": "annoying",
+        "weight": 1.1198
+      },
+      {
+        "term": "process felt",
+        "weight": 1.1198
+      },
+      {
+        "term": "process",
+        "weight": 1.1198
+      },
+      {
+        "term": "messy",
+        "weight": 1.0875
+      },
+      {
+        "term": "unhelpful",
+        "weight": 1.0592
+      },
+      {
+        "term": "login",
+        "weight": 1.0518
+      },
+      {
+        "term": "feels",
+        "weight": 0.9616
+      },
+      {
+        "term": "notifications",
+        "weight": 0.9578
+      },
+      {
+        "term": "glitchy",
+        "weight": 0.9521
+      },
+      {
+        "term": "refunds",
+        "weight": 0.9479
+      },
+      {
+        "term": "version",
+        "weight": 0.9423
+      },
+      {
+        "term": "problem",
+        "weight": 0.9423
+      }
+    ],
+    "top_negative_terms": [
+      {
+        "term": "overall",
+        "weight": -1.5476
+      },
+      {
+        "term": "simple",
+        "weight": -1.1932
+      },
+      {
+        "term": "acceptable",
+        "weight": -1.1863
+      },
+      {
+        "term": "use",
+        "weight": -1.0641
+      },
+      {
+        "term": "average",
+        "weight": -0.9539
+      },
+      {
+        "term": "really stood",
+        "weight": -0.8995
+      },
+      {
+        "term": "stood",
+        "weight": -0.8995
+      },
+      {
+        "term": "major",
+        "weight": -0.8463
+      },
+      {
+        "term": "fine",
+        "weight": -0.8383
+      },
+      {
+        "term": "looks",
+        "weight": -0.8074
+      },
+      {
+        "term": "used",
+        "weight": -0.7734
+      },
+      {
+        "term": "really",
+        "weight": -0.7679
+      },
+      {
+        "term": "standard",
+        "weight": -0.7572
+      },
+      {
+        "term": "bit felt",
+        "weight": -0.7345
+      },
+      {
+        "term": "bit",
+        "weight": -0.7345
+      },
+      {
+        "term": "today",
+        "weight": -0.6947
+      },
+      {
+        "term": "ordinary",
+        "weight": -0.6872
+      },
+      {
+        "term": "did not",
+        "weight": -0.6602
+      },
+      {
+        "term": "notice major",
+        "weight": -0.6602
+      },
+      {
+        "term": "notice",
+        "weight": -0.6602
+      }
+    ]
+  },
+  "Neutral": {
+    "top_positive_terms": [
+      {
+        "term": "acceptable",
+        "weight": 2.346
+      },
+      {
+        "term": "looks",
+        "weight": 1.4081
+      },
+      {
+        "term": "overall",
+        "weight": 1.2468
+      },
+      {
+        "term": "average",
+        "weight": 1.2243
+      },
+      {
+        "term": "used",
+        "weight": 1.1858
+      },
+      {
+        "term": "today",
+        "weight": 1.166
+      },
+      {
+        "term": "basic",
+        "weight": 1.1049
+      },
+      {
+        "term": "really stood",
+        "weight": 1.1046
+      },
+      {
+        "term": "stood",
+        "weight": 1.1046
+      },
+      {
+        "term": "bit",
+        "weight": 1.0556
+      },
+      {
+        "term": "bit felt",
+        "weight": 1.0556
+      },
+      {
+        "term": "standard",
+        "weight": 1.0222
+      },
+      {
+        "term": "okay",
+        "weight": 1.0011
+      },
+      {
+        "term": "fine",
+        "weight": 0.966
+      },
+      {
+        "term": "decent",
+        "weight": 0.8736
+      },
+      {
+        "term": "middle road",
+        "weight": 0.8661
+      },
+      {
+        "term": "middle",
+        "weight": 0.8661
+      },
+      {
+        "term": "road",
+        "weight": 0.8661
+      },
+      {
+        "term": "ordinary",
+        "weight": 0.8604
+      },
+      {
+        "term": "major",
+        "weight": 0.8453
+      }
+    ],
+    "top_negative_terms": [
+      {
+        "term": "feels",
+        "weight": -1.9283
+      },
+      {
+        "term": "especially",
+        "weight": -1.2354
+      },
+      {
+        "term": "smooth",
+        "weight": -1.1507
+      },
+      {
+        "term": "experience",
+        "weight": -0.9795
+      },
+      {
+        "term": "use",
+        "weight": -0.9612
+      },
+      {
+        "term": "slowed",
+        "weight": -0.9455
+      },
+      {
+        "term": "feels smooth",
+        "weight": -0.8388
+      },
+      {
+        "term": "comes",
+        "weight": -0.8346
+      },
+      {
+        "term": "flow feels",
+        "weight": -0.8239
+      },
+      {
+        "term": "no real",
+        "weight": -0.8002
+      },
+      {
+        "term": "complaints",
+        "weight": -0.8002
+      },
+      {
+        "term": "no",
+        "weight": -0.8002
+      },
+      {
+        "term": "real complaints",
+        "weight": -0.8002
+      },
+      {
+        "term": "recommend",
+        "weight": -0.7921
+      },
+      {
+        "term": "not recommend",
+        "weight": -0.7921
+      },
+      {
+        "term": "worth",
+        "weight": -0.7866
+      },
+      {
+        "term": "experience felt",
+        "weight": -0.7866
+      },
+      {
+        "term": "felt worth",
+        "weight": -0.7866
+      },
+      {
+        "term": "overall flow",
+        "weight": -0.754
+      },
+      {
+        "term": "better",
+        "weight": -0.7234
+      }
+    ]
+  },
+  "Positive": {
+    "top_positive_terms": [
+      {
+        "term": "use",
+        "weight": 2.0253
+      },
+      {
+        "term": "comes",
+        "weight": 1.3014
+      },
+      {
+        "term": "experience felt",
+        "weight": 1.2475
+      },
+      {
+        "term": "felt worth",
+        "weight": 1.2475
+      },
+      {
+        "term": "worth",
+        "weight": 1.2475
+      },
+      {
+        "term": "smooth",
+        "weight": 1.2408
+      },
+      {
+        "term": "lot time",
+        "weight": 1.2057
+      },
+      {
+        "term": "saved lot",
+        "weight": 1.2057
+      },
+      {
+        "term": "saved",
+        "weight": 1.2057
+      },
+      {
+        "term": "lot",
+        "weight": 1.2057
+      },
+      {
+        "term": "nice",
+        "weight": 1.199
+      },
+      {
+        "term": "experience",
+        "weight": 1.1848
+      },
+      {
+        "term": "overall flow",
+        "weight": 1.1569
+      },
+      {
+        "term": "solid",
+        "weight": 1.1535
+      },
+      {
+        "term": "flow feels",
+        "weight": 1.0644
+      },
+      {
+        "term": "real complaints",
+        "weight": 1.029
+      },
+      {
+        "term": "complaints",
+        "weight": 1.029
+      },
+      {
+        "term": "no",
+        "weight": 1.029
+      },
+      {
+        "term": "no real",
+        "weight": 1.029
+      },
+      {
+        "term": "helpful",
+        "weight": 1.0282
+      }
+    ],
+    "top_negative_terms": [
+      {
+        "term": "slowed",
+        "weight": -1.2958
+      },
+      {
+        "term": "acceptable",
+        "weight": -1.1598
+      },
+      {
+        "term": "not recommend",
+        "weight": -0.9549
+      },
+      {
+        "term": "recommend",
+        "weight": -0.9549
+      },
+      {
+        "term": "repeat",
+        "weight": -0.8728
+      },
+      {
+        "term": "repeat twice",
+        "weight": -0.8728
+      },
+      {
+        "term": "twice",
+        "weight": -0.8728
+      },
+      {
+        "term": "annoying",
+        "weight": -0.7708
+      },
+      {
+        "term": "felt annoying",
+        "weight": -0.7708
+      },
+      {
+        "term": "process",
+        "weight": -0.7708
+      },
+      {
+        "term": "process felt",
+        "weight": -0.7708
+      },
+      {
+        "term": "messy",
+        "weight": -0.7144
+      },
+      {
+        "term": "waste time",
+        "weight": -0.7116
+      },
+      {
+        "term": "waste",
+        "weight": -0.7116
+      },
+      {
+        "term": "like waste",
+        "weight": -0.7116
+      },
+      {
+        "term": "felt like",
+        "weight": -0.7116
+      },
+      {
+        "term": "honestly felt",
+        "weight": -0.7116
+      },
+      {
+        "term": "confusing",
+        "weight": -0.6834
+      },
+      {
+        "term": "page",
+        "weight": -0.6217
+      },
+      {
+        "term": "problem",
+        "weight": -0.6193
+      }
+    ]
+  }
+}
