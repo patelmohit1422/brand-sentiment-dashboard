@@ -10,7 +10,8 @@ Instead of keeping it as a simple ML script, I tried to build something closer t
 
 ![Dashboard Screenshot](assets/screenshots/dashboard_home.png)
 ![Prediction Result](assets/screenshots/prediction_result.png)
-![Charts Preview](assets/screenshots/charts_preview.png)
+<img width="1918" height="1027" alt="data" src="https://github.com/user-attachments/assets/28133ad5-95ad-4be8-b5c8-e7f65873f830" />
+<img width="1918" height="1025" alt="insights" src="https://github.com/user-attachments/assets/702d3e5e-d2ea-444c-88f4-3fa09eb44284" />
 
 ---
 
